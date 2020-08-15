@@ -10,7 +10,7 @@ Flask library is used for creating a simple web application.
 
 Command to install flask: pip install flask
 
-# Installaions required
+# Installations required
 Further you can go to the link: https://tesseract-ocr.github.io/tessdoc/Downloads.html
 
 After going on the above link you can download Tesseract by selecting the OS you work on.
